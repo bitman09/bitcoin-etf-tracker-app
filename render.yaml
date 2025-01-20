@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: btc-etf-tracker
+    env: node
+    plan: starter
+    buildCommand: npm install; npm run build
+    startCommand: npm run start
+    autoDeploy: true
+    envVars:
+      - key: BTC_ETF_TRACKER_API_URL
+        value: http://btc-etf-watcher-api:10000
