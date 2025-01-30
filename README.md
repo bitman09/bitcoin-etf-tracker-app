@@ -4,6 +4,8 @@
 
 ## Contact Info
 
+Linkedin: [@dias-ishbulatov](https://www.linkedin.com/in/dias-ishbulatov/)
+
 Telegram: [@diasibt](https://t.me/@diasibt)
 
 X: [@DiasIbt101](https://x.com/DiasIbt101)
